@@ -23,12 +23,9 @@ To write a Python program to take the radius from the user and find the area of 
 7. Call the `rain` method of the `umbrella` class, passing the user-provided radius `r` as an argument.  
 8. Terminate the program.
 
----
-
 ### PROGRAM
 
 ```
-
 class pen:
     def _init_(self, a):
         self.a = a
