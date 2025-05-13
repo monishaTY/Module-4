@@ -25,8 +25,6 @@ To write a Python program that reads a file and counts the frequency of each cha
 9. Return the dictionary `d1`, which contains the frequency of each character in the file.  
 10. Terminate the program.
 
----
-
 ### PROGRAM
 
 ```
@@ -44,8 +42,6 @@ def char_frequency(file_path):
     return d1
 
 ```
-
-
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/64721875-b164-44af-9040-7f6d2bab9582)
 ![image](https://github.com/user-attachments/assets/86430ebf-9695-4bce-8bc4-f3c89c0371b4)
